@@ -1,0 +1,18 @@
+{
+    "name":"Seed Phrase Generator",
+    "version":"0.1.2",
+    "description": "Easily generate strong Seed phrases for your crypto wallets",
+    "manifest_version":3,
+    "action": {
+        "default_popup":"index.html",
+        "default_icon":"icons/icon128.png"
+    },
+    "icons":{
+        "16":"icons/icon16.png",
+        "48":"icons/icon48.png",
+        "128":"icons/icon128.png"
+    },
+    "permissions":[
+        "clipboardWrite"
+    ]
+}
